@@ -1,0 +1,29 @@
+#+TITLE: Synthesizing Kick Drun
+
+* [[https://www.youtube.com/watch?v=fjM9TVFCIz8][Pick Yourself -  The BULLETPROOF Recipe For Synthesizing Unique Kick Drums]]
+* Operator
+** kick are between C0 and C1
+** desactivate everything execpt first (A)
+** activate pitch env
+*** transpose ~= 24
+*** modify pitch env
+** filter
+*** 24db
+*** OSR
+*** filter env window
+**** filter drive
+**** env %
+** oscilator B
+*** form triangle
+** routing (add caracter)
+** lfo (retriger setting)
+* saturator
+** medium curve
+* eq8
+** low cut
+** sound
+| fundamental | 50-60Hz  |
+| punch       | 90-150Hz |
+| click       | 1-6kHz   |
+* compressor
+** dry/wet: between 40 and 80%
