@@ -1,7 +1,0 @@
-* delay peut-être mis en mode time pour de meilleurs effets audio (cliquer sur sync)
-* vst https://www.surrealmachines.com/product/dub-machines-vstau/
-* effets audio
-** lfo (low frequency ondulation) soit en Hz soit tempo (on peut linker lfo)
-** EQ
-*** eq3 -> style dj -> low med high
-*** eq8 -> eq parametrique

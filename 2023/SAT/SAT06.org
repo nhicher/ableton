@@ -1,0 +1,13 @@
+* vst https://www.surrealmachines.com/product/dub-machines-vstau/
+* effets audio
+** delay peut-être mis en mode time pour de meilleurs effets audio (cliquer sur sync)
+** lfo (low frequency ondulation) soit en Hz soit tempo (on peut linker 2 lfo)
+** EQ
+*** eq3 -> style dj -> low med high
+*** [[https://www.ableton.com/en/manual/live-audio-effect-reference/#eq-eight][eq8]] -> 8 parametric filters
+**** 48 or 12 dB/octave Low cut (cuts frequencies below the specified frequency)
+**** Low shelf (boosts or cuts frequencies lower than the specified frequency)
+**** Bell curve (boosts or cuts over a range of frequencies)
+**** Notch (sharply cuts frequencies within a narrow range)
+**** High shelf (boosts or cuts frequencies higher than the specified frequency)
+**** 12 or 48 dB/octave High cut (cuts frequencies above the specified frequency)
