@@ -4,10 +4,58 @@
 ** lfo (low frequency ondulation) soit en Hz soit tempo (on peut linker 2 lfo)
 ** EQ
 *** eq3 -> style dj -> low med high
-*** [[https://www.ableton.com/en/manual/live-audio-effect-reference/#eq-eight][eq8]] -> 8 parametric filters
-**** 48 or 12 dB/octave Low cut (cuts frequencies below the specified frequency)
-**** Low shelf (boosts or cuts frequencies lower than the specified frequency)
-**** Bell curve (boosts or cuts over a range of frequencies)
-**** Notch (sharply cuts frequencies within a narrow range)
-**** High shelf (boosts or cuts frequencies higher than the specified frequency)
-**** 12 or 48 dB/octave High cut (cuts frequencies above the specified frequency)
+*** [[https://www.ableton.com/en/manual/live-audio-effect-reference/#eq-eight][eq8]] -> 8 parametric
+**** filters
+***** 48 or 12 dB/octave Low cut (cuts frequencies below the specified frequency)
+***** Low shelf (boosts or cuts frequencies lower than the specified frequency)
+***** Bell curve (boosts or cuts over a range of frequencies)
+***** Notch (sharply cuts frequencies within a narrow range)
+***** High shelf (boosts or cuts frequencies higher than the specified frequency)
+***** 12 or 48 dB/octave High cut (cuts frequencies above the specified frequency)
+**** mode
+***** stereo
+***** L/R
+***** mid/side (mid vocal, side delay)
+** [[https://www.ableton.com/fr/manual/live-audio-effect-reference/#compressor][compressor]]
+*** main window
+réglage auto volume, le compressor réagi à l'audio et permet de réduire la marge entre les différents niveaux de sons
+**** seuil/threshold -> a quel niveau il va commencer a gérer les niveaux (entre 2 sons)
+**** ratio -> taux de compression entre le niveau d'entré et de sortie
+***** 2:1 -> 2 db deviennent 1 db au dessus du seuil
+**** attack -> après combien de temps au dessus du seuil la compression démarre
+**** release -> règle le temps nécessaire pour un retour du Limiter après le seuil
+**** makeup/out -> ajuste volume pour entrée/sortie
+*** sidechain
+compresser un signal en se basant sur le niveau d’un autre signal
+** [[https://www.ableton.com/fr/manual/live-audio-effect-reference/#gate][gate]]
+ne laisse passer que les signaux dont le niveau est supérieur au seuil (Threshold)
+*** sidechain
+**** on quand le kick arrive
+**** flip pour l'inverse
+** [[https://www.ableton.com/fr/manual/live-audio-effect-reference/#auto-filter][auto-filter]]
+émule un filtre analogique classique. Il peut être modulé par un suiveur d’enveloppe et/ou un LFO pour créer des effets de filtre en mouvement
+*** créer 2 kicks et sidechain pour appliquer l'effet
+**** ex sidechain 2x plus rapide que le kick
+***** piste ou drum rack
+pour créer des patterns
+** [[https://www.ableton.com/fr/manual/live-audio-effect-reference/#utility][utility]]
+*** gain -inf db -> +35db
+*** width règle la largeur stéréo du signal traité. 0 % donne un signal mono tandis que les valeurs supérieures à 100 % créent un panorama stéréo élargi.
+*** L/R inversent la phase de chaque canal.
+
+* instruments
+** [[https://www.ableton.com/fr/manual/live-instrument-reference/#wavetable][wavetable]]
+synthétiseur qui combine deux oscillateurs à base de tables d’ondes, deux filtres à modélisation analogique et un système de modulation
+*** linker a lfo pour switch entre les formes d'ondes
+*** on peut mixer le son des != oscillateurs
+les oscillateurs sont associés dans les !- instruments
+*** [[https://www.ableton.com/fr/manual/live-instrument-reference/#operator][operator]]
+synthétiseur fm
+* session
+onglet action
+** launch -> default trigger
+*** gate -> lance stop avec [], si on maintien triangle reste jouer
+*** toggle -> 1 fois triangle permet d'avoir un bouton pour démarrer et stopper
+*** repeat -> boucle pour la durée du quantize
+** legatto
+permet de switch entre clip suivant quantize sans attendre la fin ?
