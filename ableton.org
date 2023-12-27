@@ -1,0 +1,16 @@
+* Ableton
+** To move from paper notes
+*** [[file:files/pick-yourself-hypnotic-techno-bassline.org][Pick Yourself - Hypnotic Techno Bassline]]
+*** [[file:files/tom-cosm-sound-design-bassline.org][Tom Cosm - Sound Design - Basslines]]
+*** [[file:files/ill-gates-how-to-make-music-you-are-pround-of.org][Ill Gates - How to make music you're pround of]]
+
+** Files
+*** [[file:files/SAT/sat.org][SAT]]
+*** [[file:shortcuts.org][shortcuts]]
+*** [[file:files/pick-yourself-synthesizing-kick.org][Pick Youself - Synthesizing Kick]]
+
+** Todo
+*** todo [[https://www.youtube.com/watch?v=g5AnwiD_Cn4][10 Ableton Tips Only PROS Know About]]
+*** todo [[https://www.youtube.com/watch?v=0xY7NZF3n0w][Ableton Wavetable - Fat Sub Bass | Sound Recipes]]
+*** todo [[https://www.youtube.com/watch?v=7qFQ3pfU3GM][How To Play Chords On Push 2 Like A PRO]]
+*** todo [[https://www.youtube.com/watch?v=vGGDKnT62XU][Push 2 Advanced Sampling Techniques]]
