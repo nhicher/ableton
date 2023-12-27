@@ -1,0 +1,12 @@
+#+TITLE: Keyboard shortcuts
+* global
+| shift + tab | toggle device/clip |
+* session
+| shift + cmd + m | insert midi clip |
+* clip
+| shift + left/right | change note length |
+* arrangement
+| ctrl + l | loop selection |
+* tracks
+| ctrl + shift + t | insert midi track  |
+| ctrl  + t        | insert audio track |
