@@ -1,1 +1,13 @@
-https://www.youtube.com/watch?v=zATLUvOZx4s
+#+TITLE: sound design baseline
+
+* [[https://www.youtube.com/watch?v=zATLUvOZx4s][video]]
+
+* steps
+
+** operator
+*** routing - - - -
+*** cut filter
+*** pitch env 85%
+*** decay 150ms
+*** vol A -> sustain -15db
+** select operator -> group

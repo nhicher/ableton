@@ -1,0 +1,145 @@
+#+TITLE: how to make music you are proud of
+
+https://docs.google.com/document/d/1NqKzR2SAza8m10bVFJnUvhHJACvGgsjnrkslBIYCZ2k/edit
+
+* from quantity comes quality
+* learn to finish yours tracks, then focus on speed
+* 80% of gain are from learning to listen
+* make a ref playlist (10 or 20 tracks)
+** all genres
+** genre specific (as style ref)
+* use your eyes to train -> pure analyser system
+* arrangement exercise
+** start with a simple reference
+** line it up with bars in DAW (intro ...)
+** make empty clips for sounds
+** label them clearly
+** get a visual of the arrangement and composition
+* next level - remake song
+** study != plagiarism
+* prepare your sounds library
+* snowflake (unique sounds )vs robots (folders)
+** snowflake folder
+*** spark -> inspiring starts
+*** faces -> title concepts + lyrics
+*** purple cows -> WTF sounds
+*** ideas + stingers -> audio branding
+** robots folder
+*** 3 drum racks method
+*** meat
+**** kick, snare, clap
+*** patatoes
+**** rimshot, hi hat, crash
+*** spice
+**** laser, trap, high clap ?
+*** subbass + other basic patches
+*** sound effects + risers
+*** user folders in all plugins
+*** channel stips + audio effects
+* stop digging to folders
+** once a year make a user folder
+** make favorites in every categories
+** have best of folder in favorites
+** make 128s (sample selection) for all your samples archives
+** never waste writing time again
+
+* how to make 128s
+** drag sample folder into sampler
+** duplicate if more than 128
+** select all samples in sampler
+** right clic, distribute range equally
+** save to lib, name memorably
+* zone types for 128s
+** all samples have zones
+** how to you plan to distribute them -> key = one sample per note
+* collect all samples on export?
+** in library preference
+** move samples to lib
+*** yes -> good for your favorites
+*** no -> good for external drive
+** don't make your internal drive or lib > 50GB
+* Workflow
+** Make a music recipe
+*** production = problem solving
+*** what are your problems?
+*** what order do you solve them in?
+*** learn to finish everytime
+*** focus on speed, then quality
+*** recipe evolve with practice
+*** next level
+**** time beat
+***** choose sample 5 min
+***** make arrange 5 min
+** phase 1 - The super loop
+*** adding ideas to the loop
+*** always start with a spark
+*** say yes to everything, don't criticize
+*** you want to many good ideas
+*** find the face or go to your face folder
+*** mute and unmute channels to test
+** phase 2 - Arrangement
+*** duplicate super loop to all song (3min)
+*** label sections at the top
+*** write by subtracking
+*** delete part of the loop to make sections
+*** add variations + simple automations
+** phase 3 - Make stems + edit
+*** end of phase 2, you think you've done
+*** you're not done, go to phase 2
+*** turn everything in audio stems
+*** add details + edit to make it tight
+** phase 4 - finish your mix down
+** phase 5 - send it off to mastering
+** finish and remix
+* Composing the mix
+** full, clear, balanced + focus on all systems
+** separation of foreground, middleground, background
+** clear hierarchy of importance, focus all the time
+** appropirate for style of the individual song
+** easy to understand what composer is going for
+* compo 101 - singer and band
+** Most people only heard 2 things:
+*** singer which stand out
+*** band as a unit
+** Same thing without vocal
+** every composition needs a focus
+** the hierarchy of presence
+*** focus must dominate all possible aspects
+*** compo, mixing and sound design
+*** volume, 3 extremes + pain zone
+*** focus sit on top and in front of the mix
+*** video the are of mixing - david gibson
+** 5 extremes
+*** high above 8kHz
+*** low below 80Hz
+*** side only signal
+*** pain zone 2kHz - 5kHz
+*** transient structure
+* Volume 80% of the mixing
+** first/closest control any hw mixer
+** how lound/quiet a sound is the most important factor when mixing
+** before adding plugin try to adjust volume 80% of the time it will fix your issue
+* Magic quest
+** does this sound needs to stand out (se démarquer) or blend in (se fondre dans la masse)
+** adjust level (80% of the time)
+** does an aspect needs to stand out or blend in?
+** then adjust the sound aspect approx
+** freq: use layering, saturation or eq
+** power: layering, saturation, compress or eq
+** transient: layering, clipping, limit or compress
+** stereo: layering, chorus, phaser, reverb, width
+** focus: make space with mute + eq on other sounds
+** when in doubt, simplify all faders down, then bring up the most important
+** 5 dim
+*** high/low
+*** essential + ditch the rest
+*** side
+*** 2 sensitivities -> transient and painzone
+* Path to glory
+** remix your live - you are your habits
+** progress demands daily practices
+** new habits need discipline ... at first
+** practice create momentum
+** momentum create inspiration
+** inspired work becomes a positive addiction
+** a mentor job is to start this feedback loop

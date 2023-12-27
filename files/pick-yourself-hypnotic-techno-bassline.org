@@ -1,1 +1,25 @@
-https://www.youtube.com/watch?v=Hd0TVJigIzY
+#+TITLE: hypnotic bassline
+
+* [[https://www.youtube.com/watch?v=Hd0TVJigIzY][video]]
+
+* steps
+
+1) synth
+2) notes information -> vary in pitch, arpegip
+
+** clip -> scale - eg minor -> E1
+** chord - arpegiator - analog - auto-filter
+** chord
+*** +3ST, +4ST, +7ST, +8ST (ST = semi tone)
+** analog
+*** osc1: SIN - octave +1 - filter /\
+*** osc2: TRI - -3db - filter freq (200) and reso (40%)
+*** LFO1 -> to f2 -> LFO1 0.40
+*** LFO2 -> OSC2 -> pitch mode 0.02
+** auto-filter
+*** MS2
+** filter delay
+** echo
+** vocoder
+** erosion
+** lfo (max)

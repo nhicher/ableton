@@ -1,0 +1,15 @@
+#+TITLE: wavetable fat sub bass
+
+* [[https://www.youtube.com/watch?v=0xY7NZF3n0w][video]]
+
+* steps
+** adjust Amp env (bien rectangle)
+** mono, for bass not play multiples notes at the same time
+** glide ~= 150ms
+** shape -> square (osci position 100%)
+** filter freq 250
+** filter circuit MS2
+** drive ~= 13db
+** global - vol -> -13db
+** midi -> osc 1 pos -> key 41 ?
+** matrix -> osc 1w -> lfo1

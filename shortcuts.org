@@ -6,10 +6,14 @@
 * clip
 | shift + left/right | change note length |
 * arrangement
-| ctrl + l           | loop selection      |
-| ctrl + i           | insert silence      |
-| ctrl + shift + d   | duplicate selection |
-| ctrl + shift + <-> | delete selection    |
+| cmd + l           | loop selection      |
+| cmd + i           | insert silence      |
+| cmd + shift + d   | duplicate selection |
+| cmd + shift + <-> | delete selection    |
+| z                  | zoom to select      |
+| x                  | unzoom              |
 * tracks
-| ctrl + shift + t | insert midi track  |
-| ctrl  + t        | insert audio track |
+| cmd + shift + t | insert midi track  |
+| cmd  + t        | insert audio track |
+* instruments
+| cmd  + g        | group |
