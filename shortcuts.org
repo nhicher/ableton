@@ -6,7 +6,10 @@
 * clip
 | shift + left/right | change note length |
 * arrangement
-| ctrl + l | loop selection |
+| ctrl + l           | loop selection      |
+| ctrl + i           | insert silence      |
+| ctrl + shift + d   | duplicate selection |
+| ctrl + shift + <-> | delete selection    |
 * tracks
 | ctrl + shift + t | insert midi track  |
 | ctrl  + t        | insert audio track |
