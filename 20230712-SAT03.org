@@ -1,0 +1,119 @@
+* 3 types de pistes
+** midi
+** audio
+** retour
+
+* les boutons 'Sends' sont utilisés pour envoyer la piste sur les retours
+l'effet est appliqué a 100% (wet) sur la piste de retour
+le son est joué sur master et sur l'effet en //
+
+souvent revert sur retour pour créer de l'espace virtuel
+
+* post-fader et pre-fader (surtout pour le live)
+If Track 1 is sent to a Return track:
+
+Pre = no matter what level you adjust Track 1 to, it always sends out the full level of audio (with respect to the send knob amount) to the Reverb. You could have Track 1's level at -inf, hearing none of the original audio, and you would still hear full sound from the Return channel
+
+Post = the volume slider will affect the level sent to the Return channel. It is part of the chain now. If you crank up the send knob, but set your fader to -inf, you will not have any audio sent to the Reverb.
+
+Pre/post are Pre (before the) fader and Post (after the) fader. That is what part of the audio chain the Return channel will pull the audio from
+
+sur la piste master _____________
+                    |     Sends |
+                    | -- post   |
+                    | ---- post |
+* rack
+
+sauver 1 effet -> l'icone disquette en haut a droite
+
+** racks (effets groupés)
+*** shift + clic droit gauche pour selectionner les effets, clic droit 'grouper'
+*** sauver 1 rack -> l'icone de disquette en bas a gauche du rack (rack fermé), sinon en huat a droite
+*** haut a gauche -> macros
+*** bas a gauche  -> liste de chaine (on peut régler le volume et le panning)
+
+clip -> piste -> [ rack [ ch1 -> delay | reverb -> mixer ]] -> fader
+                        [ ch2 -> erosion -> mixer         ]
+
+les 2 racks sont joué en //
+
+cela permet de créer des effets plus complexes
+
+on peut ajouter des effets dans le rack, juste après le dernier effet par ex
+ajouter un effet après le rack pour grouper rack 1 + effet -> rack 2
+
+*** macro de rack
+**** cliquer sur map, tout s'allume en vert
+**** on choisit un bouton, clic droit et envoyer vers macro, on peut envoyer plusieurs bouton vers la même macro
+**** dans le browser
+|        | min | max |
+| delay  |  50 | 100 |
+| reverb |   0 |  50 |
+
+***** on peut reverse aussi
+|       | min | max |
+| delay | 100 |   0 |
+* browser
+** effet audio/instr -> icone carré couper en 2 horizon
+** rack -> icone carré couper en 2 horizon, rectangle bas splitté en 2 vert
+
+sample + effet -> rack
+* drum rack
+** comme impulse mais on peut mettre des effets par instrument (le déposer juste derrieres l'instrument ou pour le rack complet)
+** on peut modifier la longeur du sample de l'instrument
+* piste master
+** volume de -inf a 6 db (0 étant les volumes max sans distorsion du son)
+
+* Arrangement
+contient les mêmes pistes, mêmes effets que session, mais les clips ne sont pas présents
+** transferer clip:
+*** clic droit pour déplacer le clip
+*** TAB pour passer dans l'écran arrangement
+Les clips ne sont plus liés entre session et arrangement
+** 2 clics sur bouton stop pour revenir au début du morceau
+** si on étire le clip et que loop est activé, le clip sera étendu avec le même contenu
+** select puis diviser coupe le clip (E)
+** coller 2 clips (marche si espace entre les 2) select et consolider
+** SUPER + d dupliquer le clip
+** créer un clip
+select region, clic droit, insérer clip midi
+** désactiver clip
+clic droit désactiver
+** boucle d'arrangement
+*** icone en haut (carré avec une flêche)
+*** on peut dupliquer toute la zone temporelle:
+clic pour select l'ensemble, clic droit, dupliquer zone tempo
+*** suppresion select la boucle
+**** delete va supprimer et laisser le blanc
+**** clic droit -> supprimer la zone tempo va coller les 2 parties entre la partie supprimé
+*** couper recolle les parties aussi
+* repères (reste visible même si il y a beaucoup de piste)
+** on peut ajouter des marqueurs visuels pour marquer les sections:
+*** clic droit dans la zone de scrub, ajouter repère
+*** on se place -> bouton set
+** on se place sur une repère -> bouclage jusqu'au prochain repère
+** double clics sur un repère, la lecture démarre a ce point
+** permet de sauter facilement entre les sections, ableton va caler les séquences
+
+* si on active une piste dans session, elle est désactivée dans arrangement, il faut cliquer sur le bouton route 'retour a l'arrangement'
+
+* modulation (enveloppe)
+** en % du volume ou auto
+** modulation en arrangement, activé avec bouton <-> (icone en diago)
+** on peut placer des sons différents dans les pistes audio entre session et arrangement
+** + sur la piste pour ajouter des env
+** on peut copy/paste des env
+** on peut cliquer droit sur les points pour éditer les valeurs
+** si on déplace une section, l'enveloppe suit
+** si on clic sur cadena, on peut déplacer le son sans l'env
+* fade/cross fade (env pour le début et la fin du clip, pour éviter les clics)
+** sortir mode env
+** zoomer sur début ou fin de clip
+** si le kick ne sonne pas comme il faut, checker si live a inserer un fade
+** si on colle 2 sons (même piste ou piste diff), on peut avoir des bons effets avec la transition (les clips se chevauchent dans le temps)
+
+
+* sample gratos
+** loopmasters
+** big fish audio
+** splice.com

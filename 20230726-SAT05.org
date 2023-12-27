@@ -1,0 +1,74 @@
+* extension als -> session de live
+* instrument operator -> synthé analogique ou fm
+* en session, si rien n'est sélectionner
+** record et play du master sont redirigé vers vue arrangement
+* vue arrangement
+** 18 . 2 . 2 -> position en vue arrangement
+** arrangement -> session
+*** select boucle (donc x instru) -> consolidate to new scene -> ajoute ligne en session avec automatisation de l'arrangement
+** si import vidéo avec audio, désactiver warp si on veut sync de l'audio ensuite
+** locator (drapeau) on peut set -> song start here
+** automation (sur l'instrument en bleu), modulation (sur la piste en bleu) != session ou les 2 sont présents
+
+* plugin 303 https://www.audiorealism.se/audiorealism-bass-line-3.html
+
+* session
+** grouper piste -> select puis group tracks
+*** manager volume du groupe
+*** effets du groupe
+*** astuce dan
+**** grouper kick et snare
+drum sur 1 avec kick, régler le volume
+dupliquer
+snare sur 2
+ajouter effet sur le groupe
+**** grouper pistes non utilisées pour couper son
+** sur le coté droit, X jaune pour afficher Xfader pour mixer pistes
+*** clic droit sur icone Xfader -> on peut choisir != courbes de Xfader
+**** transition: plus naturel, pas de changement de volume
+* grooves
+** on peut extraire d'un groupe pour appliquer sur 1 instrument
+** dans 'clip view' section groove
+** dans 'groove pool' on peut modifier base (1/8, 1/4), quantize, velocity
+
+* instruments racks
+les différents instruments jouerons les mêmes notes
+** creation
+*** ajouter 'instrument rack' sur un piste midi
+*** ajouter un instru (operator)
+*** cliquer sur icone 'show chain list'
+*** ajouter instrument (analog bass)
+** mixer les instruments
+*** chain sur instrument rack
+***** bass 1 -> 1 (ou 1 -> 64)
+***** bass 2 -> 2 (ou 64 -> 127)
+**** on peut aussi fade
+***** bass 1 -> 1 -> 100
+***** bass 2 -> 50 -> 127
+**** mapper le 'chain selector ruler' sur un potard
+*** vélocité -> pression sur touche
+*** key -> suivant les notes on a != instruments
+
+
+** autre possibilité
+*** bass 1 sur track 1
+*** bass 2 sur track 2, configurer envellope 'device chooser' sur bass 1 et 'speaker on' sur 'control chooser' (a valider)
+
+* clip view -> follow actions (enchainement de clip de maniere auto)
+** clip 1 * 2 puis clip 2
+** next -> prochain clip
+** first -> premier de la chaine de clip (il faut laisser un espace pour créer une chaine de clip)
+** on a aussi un potard et on peut linker 2 follows actions
+
+* batir 1 set
+vue session
+1) jouer avec instruments, start 1 par 1 puis master
+2) dupliquer ligne et lancer une ligne a la fois
+
+** Dan
+*** 16 pistes pour 1h de live
+*** convertir kick en sample puis les ajouter dans un drum rack
+*** pistes qui ne seront pas manipulées -> convertir en sample
+*** midi si modif durant le live
+*** utilise arrangement pour création -> convert clip (et convert audio si besoin)
+*** 1 piste kick et snare sur une autre piste si le snare doit être manipulé

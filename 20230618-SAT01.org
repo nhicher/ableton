@@ -1,0 +1,53 @@
+* prof
+jan@sat.qc.ca
+
+Informations supplémentaires:
+
+Voici le forum Ableton :
+https://forum.ableton.com
+
+(mon nom sur le forum est Da Hand)
+
+* shortcuts
+| TAB                   | switch between vue session <-> arrangement |
+| shift + TAB           | alterner clip/instrument                   |
+| clic droit + haut/bas | change valeur des chiffres                 |
+
+* session
+3 types de pistes:
+- midi
+- audio
+- retour
+
+** le titre de piste contient l'instrument, le clip contient la sequence
+** exemple:
+*** select instruments/impulse -> le déposer sur la piste
+**** select 3 sons de batterie (kick, snare and hithat) et les déposer un pad d'impulse (chaque pad peut être réglé individualement)
+**** créer le clip et placer des notes
+*** nouvelle piste midi -> sons -> b bass
+*** après avoir ajouter les notes, clic droit + quantifier va aligner les notes sur les temps, 1/2 temps ...
+*** vue clip
+|>            <| -> zone de la boucle
+|>            <| -> marqueur de début/fin
+**** on peut:
+|>               <|
+      |>         <|
+
+ce qui est joué:
+       -----------
+ -----------------
+ -----------------
+
+      |>         <|
+|>               <|
+ce qui est joué:
+ -----------------
+       -----------
+       -----------
+* théorie musique
+** Monter d'une octave -> double la fréquence des notes (en Hz)
+** c'est plus harmonieux d'avoir la même note principale entre les différents clips (C/do par ex)
+** 7 notes de A à G
+** 12 espaces avec # et bémol
+** monter  1/2 ton eg A -> A#
+** descent 1/2 ton eg A -> G# ou A bémol

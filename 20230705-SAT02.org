@@ -1,0 +1,51 @@
+* navigateur
+dossier -> instrument ou effet de basse
+fichier -> preset d'instrument ou d'effet
+
+* clip -> effet midi -> Intrument midi | audio -> effet audio
+
+* effets midi/audio
+** [[https://www.ableton.com/fr/manual/live-audio-effect-reference][effet audio]]
+*** [[https://www.ableton.com/fr/manual/live-audio-effect-reference/#delay][delay]]
+feedback = nb de repetition
+Dry/Wet règle la balance entre signal sec et signal traité
+*** [[https://www.ableton.com/fr/manual/live-audio-effect-reference/#reverb][reverb]]
+
+** [[https://www.ableton.com/fr/manual/live-midi-effect-reference/][effet midi]]
+*** [[https://www.ableton.com/fr/manual/live-midi-effect-reference/#pitch][pitch]]
+change la hauteur de la note reçue (+12 = 1 octave)
+
+* [[https://www.ableton.com/fr/manual/clip-envelopes/#enveloppes-de-clip][enveloppes]]
+
+utilisées pour automatiser ou moduler les effets, le mélangeur, et les commandes de clip ou MIDI
+** mixer (le plus simple)
+*** track volume: modifier volume entre les notes
+*** track panning: balancer le son entre droite et gauche
+** instrument: plus de choix
+tip: si sur la vue instrument, on selectionne un bouton, quand on repase sur env, il est automatiquement choisi dans le selecteur de commande
+
+** on peut sauver un clip avec instru + env en glissant le fichier dans le browser
+
+** automation -> en db
+** modulation -> en % du master (avec crayon plus simple) + s'applique sur automation également
+
+* sur une piste midi on peut désactiver note, select + 0
+
+* piste audio
+** transformer clip midi en audio
+*** clic droit, geler piste (freeze), clic droit écraser piste (flatten)
+*** la dupliquer si on veut garder le midi a coté
+** warp
+Déformation temporelle (« Warp ») des échantillons, live maintien le pitch
+*** beat -> percu
+*** complex -> autre instrument
+*** petit bouton avec 2 fleches reverse, on peut dupliquer une piste, la convertir en audio, jouer les 2 en même temps et baisser le pitch sur l'audio
+*** warp marker
+**** usage
+|>            <| -> zone de la boucle
+|>            <| -> marqueur de début/fin
+ []              -> on peut les placer sur la 3 ieme ligne
+
+ on peut étirer/réduire le tempo des samples grace au warp marker (max tempo entre 2 warp 999)
+
+**** puis on modifie la zone de boucle pour selection uniquement ce que l'on souhaite, clic droit, recadrer échantillon

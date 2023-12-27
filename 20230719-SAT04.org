@@ -1,0 +1,51 @@
+* plugins
+instruments/effets d'autres manufacturiers sur piste midi:
+** types:
+*** VST, VST3
+*** AU (audio unit)
+*** AAX (protools)
+
+** en bas, une fois le plugin ajouté a une piste midi :
+*** icone clé : ouvrir la fenêtre du plugin
+*** icone triange: configuration (assigner touches ou potards)
+
+** vérifier si les plugins sont bien activés dans les préférences
+
+* les drum synths peuvent être posé dans les drums rack pour modifier les sons des instruments
+
+* maxforlive.com plein d'instruments de qualité diverses
+
+* controlleurs midi
+brancher le controlleur après avoir démarré live (en haut a droite de live on peut voir les events du controlleur)
+** préférences
+*** track et remote en général
+*** plugins vst pour linker potard
+** commutateur action midi (en haut a gauche de la fenêtre principale) permet de selectionner élément pour assigner au controlleur
+** MPE -> after touch -> permet d'activer élem si la touche reste enfoncé
+** sync -> synchro entre les instruments
+** enregistrement midi avec controlleurs
+*** armer la piste (bouton rouge)
+*** paramêtres -> record -> start playback with record (off)
+**** min -> pas de son, mais enregistre piste
+**** auto
+**** off -> on entend ce qu'on enregistre
+*** quantize après enregistrement pour normaliser (T = triolet)
+**** édition -> réglage de quantification (pas appliqué en live)
+**** on peu undo un quantize
+**** on peut enregistrer envellope uniquement
+** overdub (icone o-o en biais)
+*** on peut enregistrer par dessus le son ou ajouter de l'env
+*** select env -> clic droit -> simplifier env (?)
+
+* enregistrement audio
+** input audio -> on peut redirigé sur une autre piste
+** enregistré dans le projet (sample/recorded)
+** icone 'punch in' - icone boucle - icone 'punch out'
+*** permet de controller la zone d'enregistrement avec punch in/out
+*** avec la boucle, on record plusieurs fois, tout est conservé dans la boucle
+*** en arrangement, clic droit sur instrument -> show takeline (afficher ligne de prise)
+**** select section de piste -> enter
+merge les diff section de piste
+**** insérer takeline
+***** ajouter sample puis morceau de sample
+on peut faire cela avec des samples pas uniquement enregistrement
