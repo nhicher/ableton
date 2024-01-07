@@ -1,0 +1,14 @@
+* [[https://www.ableton.com/en/manual/instrument-drum-and-effect-racks/][official documentation]]
+
+* how to have select between x instruments (and ensure non used instrument is off)
+** Add instrument rack in midi track
+*** show macro control and chain list
+*** add x instruments
+*** select chain
+*** extent x zonesi (cmd + a ) 1 to 127, distribute ranges equally (keep 0 for all off)
+*** map, select first knob
+*** on each instrument, right click on device activator -> map to chain selector
+*** on macro mappings (visible when map is activated), set the range for each device according to the values on chains on instruments rack
+
+* crossfade
+there are 2 lines on key/vel/chain views for each instrument, moving top line allow to crossfade keys/vels/chains
