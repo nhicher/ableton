@@ -5,21 +5,26 @@
 * steps
 
 1) synth
-2) notes information -> vary in pitch, arpegip
+2) notes information -> vary in pitch, arpegio
 
-** clip -> scale - eg minor -> E1
+** clip -> scale - eg minor -> E1 (1 bar)
 ** chord - arpegiator - analog - auto-filter
-** chord
-*** +3ST, +4ST, +7ST, +8ST (ST = semi tone)
+** arpegiator to 1/16
 ** analog
-*** osc1: SIN - octave +1 - filter /\
-*** osc2: TRI - -3db - filter freq (200) and reso (40%)
+*** osc1: SIN - octave +1 - filter |\ freq (200) and reso (40%)
+*** osc2: TRI - -3db - filter
 *** LFO1 -> to f2 -> LFO1 0.40
 *** LFO2 -> OSC2 -> pitch mode 0.02
+** chord
+ ST = semi tone
+*** +3ST + 7ST -> perfect 5th
+*** more fun with -> +3ST, +7ST, +4ST, +8ST
 ** auto-filter
+*** high pass
 *** MS2
-** filter delay
-** echo
-** vocoder
+** play with
+*** filter delay
+*** echo
+*** vocoder
 ** erosion
-** lfo (max)
+** lfo (max) on erosion

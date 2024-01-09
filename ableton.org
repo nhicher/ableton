@@ -9,7 +9,6 @@
 
 ** A valider
 *** [[file:files/beat-lab-wvetable-fat-sub-bass.org][Beat Lab - Wavetable - Fat Sub Bass]]
-*** [[file:files/pick-yourself-hypnotic-techno-bassline.org][Pick Yourself - Hypnotic Techno Bassline]]
 *** [[file:files/tom-cosm-sound-design-bassline.org][Tom Cosm - Sound Design - Basslines]]
 
 ** Todo
