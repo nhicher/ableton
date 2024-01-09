@@ -1,18 +1,27 @@
-* Ableton
-** Files
-*** [[file:files/SAT/sat.org][SAT]]
-*** [[file:shortcuts.org][shortcuts]]
-*** [[file:files/videos.org][From videos]]
+#+CATEGORY: ableton
 
+* Ableton
+** [[file:files/keyboard-shortcuts.org][Keyboard shortcuts]]
 ** Instruments
 *** [[file:files/instruments-rack.org][Instruments rack]]
 
-** A valider
+* Courses or notes from YT videos
+** completed
+*** [[file:files/SAT/sat.org][SAT]]
+*** [[file:pick-yourself-synthesizing-kick.org][Pick Yourself - Synthesizing Kick]]
+*** [[file:pick-yourself-hypnotic-techno-bassline.org][Pick Yourself - Hypnotic Techno Bassline]]
+*** [[file:ill-gates-how-to-make-music-you-are-proud-of.org][Ill Gates - How to make music ou're proud of]]
+** Partial notes, to complete
 *** [[file:files/beat-lab-wvetable-fat-sub-bass.org][Beat Lab - Wavetable - Fat Sub Bass]]
 *** [[file:files/tom-cosm-sound-design-bassline.org][Tom Cosm - Sound Design - Basslines]]
 
-** Todo
-*** todo [[https://www.youtube.com/watch?v=7qFQ3pfU3GM][How To Play Chords On Push 2 Like A PRO]]
-*** todo [[https://www.youtube.com/watch?v=vGGDKnT62XU][Push 2 Advanced Sampling Techniques]]
-*** todo [[https://www.youtube.com/watch?v=g5AnwiD_Cn4][10 Ableton Tips Only PROS Know About]]
-*** todo try https://www.syntorial.com/
+** Todo YT videos
+*** TODO [[https://www.youtube.com/watch?v=qTf5a0m7CM0][Naircol - WTF Even is FM Synthesis? (Using Ableton's Operator)]]
+*** TODO [[https://www.youtube.com/watch?v=7qFQ3pfU3GM][Meta Mind Music - How To Play Chords On Push 2 Like A PRO]]
+*** TODO [[https://www.youtube.com/watch?v=vGGDKnT62XU][Meta Mind Music - Push 2 Advanced Sampling Techniques]]
+
+* Others
+** to test
+*** https://www.syntorial.com/
+** to watch
+*** [[https://www.youtube.com/watch?v=A4KZWrZB-FI][Les conseils d'INGÉ SON de Clément Roussel]]
