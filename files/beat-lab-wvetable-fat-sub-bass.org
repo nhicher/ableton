@@ -4,12 +4,23 @@
 
 * steps
 ** adjust Amp env (bien rectangle)
+a -> 1ms
+d -> 716 ms
+s -> 0 db
+r -> 9.5 ms
 ** mono, for bass not play multiples notes at the same time
-** glide ~= 150ms
-** shape -> square (osci position 100%)
-** filter freq 250
+** glide (only in mono)~= 150ms
+** shape -> square wave (osci position 100%)
+** filter freq 150
 ** filter circuit MS2
+** unison random
 ** drive ~= 13db
 ** global - vol -> -13db
-** midi -> osc 1 pos -> key 41 ?
-** matrix -> osc 1w -> lfo1
+** midi -> clic on freq to add in tab -> key 41 ?
+** effect mode -> modern
+** matrix
+osc 1warp -> lfo1 20
+filter 1 freq -> lfo1  6
+** lfo1
+rate 4
+amount 30%

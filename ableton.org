@@ -8,11 +8,11 @@
 * Courses or notes from YT videos
 ** completed
 *** [[file:files/SAT/sat.org][SAT]]
-*** [[file:pick-yourself-synthesizing-kick.org][Pick Yourself - Synthesizing Kick]]
-*** [[file:pick-yourself-hypnotic-techno-bassline.org][Pick Yourself - Hypnotic Techno Bassline]]
-*** [[file:ill-gates-how-to-make-music-you-are-proud-of.org][Ill Gates - How to make music ou're proud of]]
-** Partial notes, to complete
 *** [[file:files/beat-lab-wvetable-fat-sub-bass.org][Beat Lab - Wavetable - Fat Sub Bass]]
+*** [[file:ill-gates-how-to-make-music-you-are-proud-of.org][Ill Gates - How to make music ou're proud of]]
+*** [[file:pick-yourself-hypnotic-techno-bassline.org][Pick Yourself - Hypnotic Techno Bassline]]
+*** [[file:pick-yourself-synthesizing-kick.org][Pick Yourself - Synthesizing Kick]]
+** Partial notes, to complete
 *** [[file:files/tom-cosm-sound-design-bassline.org][Tom Cosm - Sound Design - Basslines]]
 
 ** Todo YT videos
