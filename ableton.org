@@ -12,10 +12,12 @@
 *** [[file:ill-gates-how-to-make-music-you-are-proud-of.org][Ill Gates - How to make music ou're proud of]]
 *** [[file:pick-yourself-hypnotic-techno-bassline.org][Pick Yourself - Hypnotic Techno Bassline]]
 *** [[file:pick-yourself-synthesizing-kick.org][Pick Yourself - Synthesizing Kick]]
+
 ** Partial notes, to complete
 *** [[file:files/tom-cosm-sound-design-bassline.org][Tom Cosm - Sound Design - Basslines]]
 
 ** Todo YT videos
+*** TODO [[https://www.youtube.com/watch?v=JgtTY-fkV80][Cnstruct - How to make Modern Techno Drums in Ableton Live]]
 *** TODO [[https://www.youtube.com/watch?v=qTf5a0m7CM0][Naircol - WTF Even is FM Synthesis? (Using Ableton's Operator)]]
 *** TODO [[https://www.youtube.com/watch?v=7qFQ3pfU3GM][Meta Mind Music - How To Play Chords On Push 2 Like A PRO]]
 *** TODO [[https://www.youtube.com/watch?v=vGGDKnT62XU][Meta Mind Music - Push 2 Advanced Sampling Techniques]]
