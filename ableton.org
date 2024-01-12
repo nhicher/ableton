@@ -14,13 +14,15 @@
 *** [[file:pick-yourself-synthesizing-kick.org][Pick Yourself - Synthesizing Kick]]
 
 ** Partial notes, to complete
-*** [[file:files/tom-cosm-sound-design-bassline.org][Tom Cosm - Sound Design - Basslines]]
+
+** In progress
+*** STARTED [[file:files/cnstruct-how-to-make-modern-techno-drums-in-ableton-live.org][Cnstruct - How to make Modern Techno Drums in Ableton Live]]
 
 ** Todo YT videos
-*** TODO [[https://www.youtube.com/watch?v=JgtTY-fkV80][Cnstruct - How to make Modern Techno Drums in Ableton Live]]
-*** TODO [[https://www.youtube.com/watch?v=qTf5a0m7CM0][Naircol - WTF Even is FM Synthesis? (Using Ableton's Operator)]]
-*** TODO [[https://www.youtube.com/watch?v=7qFQ3pfU3GM][Meta Mind Music - How To Play Chords On Push 2 Like A PRO]]
-*** TODO [[https://www.youtube.com/watch?v=vGGDKnT62XU][Meta Mind Music - Push 2 Advanced Sampling Techniques]]
+*** STARTED [[file:files/tom-cosm-sound-design-bassline.org][Tom Cosm - Sound Design - Basslines]]
+*** TODO [[file:files/naircol-wtf-even-is-fm-synthesis-using-operator.org][Naircol - WTF Even is FM Synthesis? (Using Ableton's Operator)]]
+*** TODO [[file:files/meta-mind-music-how-to-play-chords-on-push-2-like-a-pro.org][Meta Mind Music-How To Play Chords On Push 2 Like A PRO]]
+*** TODO [[file:files/meta-mind-music-push-2-advanced-sampling-techniques.org][Meta Mind Music-Push 2 Advanced Sampling Techniques]]
 
 * Others
 ** to test
