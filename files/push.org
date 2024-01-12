@@ -1,0 +1,33 @@
+* global
+| automation: more granularity | shift + knob           |
+| change color                 | shift + pad            |
+| cue volume                   | shift + master knob    |
+| hold quantize                | swing, quantize amount |
+| redo                         | shift + undo           |
+| reset know value             | delete + tap knob      |
+| swing                        | metronome knob         |
+
+* device
+| move device | press device button + turn knob |
+
+* clip
+| maintain pad | to change nudge, velocity ... |
+| select + pad | focus on pad                  |
+
+* session
+| arm midi track   | hold track on session view |
+| delete all steps | delete + pad               |
+
+* notes
+** drum
+| layout           | default loop selector |
+|                  | 1 x velocity mode     |
+|                  | 2 x 64 pads           |
+| silently select  | select + pad          |
+| unfold drum rack | 2x click on drum rack |
+
+** melodic
+| 1/4 -> 1/32t (default 1/16)  | change resolution              |
+| select + touch strip         | modewheel or pitchbend         |
+| shift + layout               | loop selector (layout to exit) |
+| unfold inst                  | 2x click on instrument         |
