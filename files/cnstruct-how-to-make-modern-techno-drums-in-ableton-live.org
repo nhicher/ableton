@@ -1,1 +1,143 @@
 * [[https://www.youtube.com/watch?v=JgtTY-fkV80][YT - Cnstruct - How to make Modern Techno Drums in Ableton Live]]
+
+* Arrangement view
+
+All sounds are from wav files
+
+** Kick
+2 bars
+*** positions and duration (x2)
+1     -> 1.2
+1.2.4 -> 1.2.3
+1.4.2 -> 2
+2.2.4 -> 2.3.3
+2.4.2 -> 2.4.3
+2.4.3 -> 3
+*** [[https://www.ableton.com/en/manual/live-audio-effect-reference/#hybrid-reverb][hybrid reverb]]
+**** reverb window
+ | decay (global)    | 275ms |
+ | decay (in window) | 215ms |
+ | stereo            |   17% |
+ | damping           |   33% |
+ | bass mult         |  160% |
+**** eq window
+| eq | cut of low and high freqs # more rumble sound |
+*** [[https://www.ableton.com/en/manual/live-audio-effect-reference/#glue-compressor][glue compressor]]
+| attack            | -3ms   |
+| release           | -1s    |
+| threshold (seuil) | -28db  |
+| makeup            | 16 db  |
+| dry/wet           | 50%    |
+
+** Bass
+Add bass sound on each kick
+*** [[https://www.ableton.com/en/manual/live-audio-effect-reference/#tuner][tuner]]
+don't forger to tune the base note (Eb)
+
+*** [[https://www.ableton.com/en/manual/live-audio-effect-reference/#compressor][compressor]]
+**** sidechain
+| freq      | 120Hz |
+| ration    | inf:1 |
+| attach    | 6ms   |
+| release   | 17ms  |
+| threshold | -23db |
+
+*** [[https://www.ableton.com/en/manual/live-audio-effect-reference/#saturator][saturator]]
+| drive   | 9.5db    |
+| output  | -7db     |
+| dry/wet | 30%      |
+| curve   | soft sin |
+
+*** [[https://www.ableton.com/en/manual/live-audio-effect-reference/#eq-eight][eq-eight]]
+4 -> high cut -> freq 2.3Hz
+# cut off high freq for they will give dirt later
+
+** perc/snare/snare808/clap (group)
+*** positions (x2)
+1.2
+1.4
+2.2
+2.4
+*** [[https://www.ableton.com/en/manual/live-audio-effect-reference/#delay][delay]]
+sync to addjust time
+
+| left      | 37ms    |
+| righ      | 27ms    |
+| ping pong |         |
+| dry/wet   | 30%     |
+| filter    | 2.25kHz |
+| width     | 1.4     |
+
+*** stereo effect I (in eq & filters -> eq-eight -> filters)
+| scale | 20% |
+| gain  | 0db |
+
+*** [[https://www.ableton.com/en/manual/live-audio-effect-reference/#hybrid-reverb][hybrid reverb]]
+| routing (serial)            | circonvolution   |
+| ableton studio backward L/R | impulse response |
+| dry/wet                     | 20%              |
+
+*** [[https://www.ableton.com/en/manual/live-audio-effect-reference/#reverb][reverb]]
+To create a soft tail
+| dome (low and high cuts) | 950Hz |
+| shape                    |   0.7 |
+| size                     |  13.5 |
+| decay                    | 2.2ms |
+| scale                    |   20% |
+| diffuse                  |   20% |
+| dry/wet                  |    5% |
+
+** hats
+*** 3 tracks
+**** hw2 1.1.3, 1.2.3, 1.3.3 ... (regular offbeat hats)
+***** reverb from the snare drum
+**** hw  1.1.1, 1.1.2, 1.1.3 ... (16th hats)
+***** [[https://www.ableton.com/en/manual/live-audio-effect-reference/#phaser-flanger][phaser-flanger]]
+| freq     | 0.33Hz |
+| feedback | 55%    |
+| center   | 6kHz   |
+| dry/wet  | 35%    |
+***** align delay (utilities)
+| delay mode | distance |
+| R          | 0.40     |
+**** midi clip with random notes
+***** operator
+****** first oscillator to white noise
+****** short operator env (decay 90ms, sustain -inf)
+****** filter env 15%, freq 6.5kHz
+***** eq8 -> cut low freq
+***** chorus-ensemble
+| rate    | 0.2Hz |
+| amount  |   60% |
+| dry/wet | 40%   |
+** noise atmos
+*** short loop of ambiant noise
+*** -23 db (will be textured later)
+** group all
+*** [[https://www.ableton.com/en/manual/live-audio-effect-reference/#drum-buss][drum buss]]
+| drive     |     13% |
+| crunch    |     17% |
+| transient |   -0.21 |
+| out       | -1.2 db |
+*** [[https://www.ableton.com/en/manual/live-audio-effect-reference/#eq-eight][eq-eight]]
+make a tight and narrow cut
+**** 1 disable
+**** 2
+| freq | 180Hz |
+| gain | -15db |
+| Q    | 4.5   |
+**** 3 cut the muddynes
+| freq | 320Hz   |
+| gain | -3.15db |
+| Q    | 0.58    |
+**** 4 turn up the brightness
+| freq | 2.6kHz |
+| gain | 2.15db |
+| Q    | 0.48   |
+**** 5
+| freq | 1.35kHz |
+| gain | 1.15db  |
+| Q    | 0.3     |
+
+*** OTT (dynamics -> multiband dynamics)
+TBD
