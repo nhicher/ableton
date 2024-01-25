@@ -8,8 +8,9 @@ All sounds are from wav files
 2 bars
 *** positions and duration (x2)
 1     -> 1.2
-1.2.4 -> 1.2.3
+1.2.4 -> 1.3.3
 1.4.2 -> 2
+2     -> 2.2
 2.2.4 -> 2.3.3
 2.4.2 -> 2.4.3
 2.4.3 -> 3
@@ -73,9 +74,9 @@ sync to addjust time
 | gain  | 0db |
 
 *** [[https://www.ableton.com/en/manual/live-audio-effect-reference/#hybrid-reverb][hybrid reverb]]
-| routing (serial)            | circonvolution   |
-| ableton studio backward L/R | impulse response |
-| dry/wet                     | 20%              |
+| routing (serial)            | circonvolution               |
+| ableton studio backward L/R | intimate space (to validate) |
+| dry/wet                     | 20%                          |
 
 *** [[https://www.ableton.com/en/manual/live-audio-effect-reference/#reverb][reverb]]
 To create a soft tail
