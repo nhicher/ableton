@@ -24,9 +24,16 @@
 *** TODO [[file:files/naircol-wtf-even-is-fm-synthesis-using-operator.org][Naircol - WTF Even is FM Synthesis? (Using Ableton's Operator)]]
 *** TODO [[file:files/meta-mind-music-how-to-play-chords-on-push-2-like-a-pro.org][Meta Mind Music-How To Play Chords On Push 2 Like A PRO]]
 *** TODO [[file:files/meta-mind-music-push-2-advanced-sampling-techniques.org][Meta Mind Music-Push 2 Advanced Sampling Techniques]]
+*** TODO [[https://www.youtube.com/watch?v=8nHbEtP7hLU][A guide to DRIFT synthesizer]]
 
 * Others
 ** to test
 *** https://www.syntorial.com/
-** to watch
+** to watch/read
+*** [[https://www.youtube.com/watch?v=hxnxJqhJW2E][Essential Ableton Live protips from Fanu]]
+*** [[https://www.youtube.com/watch?v=FIsKZ_coxtI][Setting Up Ableton 12's New Browser: User Guide]]
 *** [[https://www.youtube.com/watch?v=A4KZWrZB-FI][Les conseils d'INGÉ SON de Clément Roussel]]
+*** https://learningmusic.ableton.com/
+*** https://learningsynths.ableton.com/
+*** https://www.reddit.com/r/ableton/comments/1be4ujy/looking_for_inspiration_and_workflow_advice/
+*** [[https://blog.native-instruments.com/drum-patterns/][7 drum patterns every producer should know]]

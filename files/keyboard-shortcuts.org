@@ -17,3 +17,7 @@
 | cmd  + t        | insert audio track |
 * instruments
 | cmd  + g        | group |
+
+* others
+** [[https://docs.google.com/document/d/1DQeA3pghv7jP12m9XTExxe4uQ_cY7Tf4fp44E-blWLQ/edit?pli=1#heading=h.kwdsmgnn5kwq][Martilns List of Ableton Live Keyboard Shortcuts]]
+** https://blog.artistmgmt.org/ableton-12-shortcuts
